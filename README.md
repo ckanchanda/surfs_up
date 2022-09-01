@@ -7,7 +7,8 @@ of Oahu, Hawaii for a new small-business owner.
 ## Results
 * The average temperature in June is almost 4 degrees higher than the 
 average temperature in December
-* The max temperature is 85 degrees in June while the max temp is 83 degrees
+* The max temperature is 2 degrees higher in June while the minimum 
+temperature is 8 degrees cooler in December. 
 in December.
 * The standard deviation is .49 higher in December. 
 
