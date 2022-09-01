@@ -9,7 +9,6 @@ of Oahu, Hawaii for a new small-business owner.
 average temperature in December
 * The max temperature is 2 degrees higher in June while the minimum 
 temperature is 8 degrees cooler in December. 
-in December.
 * The standard deviation is .49 higher in December. 
 
 ![](Resources/Results.png)
