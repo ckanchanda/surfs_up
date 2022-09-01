@@ -5,7 +5,7 @@ The purpose of this analysis was to analyze weather trends on the island
 of Oahu, Hawaii for a new small-business owner. 
 
 ## Results
-* The average temperature in June is almost 4 degrees higher than the 
+* The average temperature in June is almost 4 degrees higher than the average 
 temperature in December
 * The max temperature is 85 degrees in June while the max temp is 83 degrees
 in December.
